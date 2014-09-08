@@ -1,0 +1,25 @@
+body {
+	background-color: #ccc;
+	margin: 0 20px;
+}
+
+h1{
+	font-size: 2.5em;
+}
+
+h2 {
+	font-size: 2em;
+	color: red;
+}
+
+.location{
+	font-size: 1.5em;
+}
+
+.class{
+	font-size: 1.5em;
+}
+
+.lists{
+	background-color: red;
+}
