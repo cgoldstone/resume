@@ -1,25 +1,60 @@
 body {
-	background-color: #ccc;
 	margin: 0 20px;
 }
 
+
+.heading{
+	text-align: center;
+	font-family: "Trebuchet MS";
+}
 h1{
 	font-size: 3em;
+	font-family: "Tahoma";
 }
 
 h2 {
+	font-family: "Lucida Sans Unicode";
 	font-size: 2.25em;
-	color: red;
+
 }
 
 .location{
-	font-size: 1.5em;
+	margin: 0 0 0 50px;
+	font-family: "Trebuchet MS";
+	font-size: 1.6em;
+}
+
+.date{
+	margin: 0 0 0 50px;
+	font-family: "Trebuchet MS";
+	font-size: 1em;
 }
 
 .class{
+	font-family: "Trebuchet MS";
 	font-size: 1.5em;
 }
 
+.job{
+	margin: 0 0 0 50px;
+	font-family: "Trebuchet MS";
+	font-size: 1.25em;
+}
+
 .lists{
+	margin: 0 0 0 100px;
+	font-family: "Trebuchet MS";
+	list-style: square;
+}
+
+.boxmodeldemo{
 	background-color: red;
+	border: 30px solid blue;
+	padding: 20px yellow;
+	margin: 20px 40px 30px 40px;
+}
+
+.containerdemo{
+	background-color: yellow;
+	width: 49%;
 }
